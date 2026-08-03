@@ -84,25 +84,6 @@ The project uses an HR Employee Dataset containing employee-related information 
 - KPI Monitoring
 - Interactive Visualizations
 
-## Project Structure
-
-```
-HR-Analytics-Dashboard/
-│
-├── Dataset/
-│   └── HR_Analytics.xlsx
-│
-├── Dashboard/
-│   └── HR_Analytics_Dashboard.twbx
-│
-├── Images/
-│   └── Dashboard.png
-│
-├── README.md
-│
-└── LICENSE
-```
-
 ## How to View the Dashboard
 
 1. Download the repository.
